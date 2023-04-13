@@ -16,6 +16,8 @@ $ find ./data -type f -name "*.txt" -print0 | xargs -0 wc -l | tail -1
 - 玩家采样器使用最多的是`DPM++ 2M Karras`，其次是默认的`Euler a`
 - 玩家无分类指导规模值使用最多的是`7`
 
+然后，我粗略的统计了指令中出现`girl`和`boy`的次数，然后出现`girl` 75732 次，出现`boy` 13205 次。dddd。
+
 ## Model
 
 ![Model](./assets/top10_model.png)
