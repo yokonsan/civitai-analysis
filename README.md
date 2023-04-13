@@ -43,3 +43,7 @@ $ find ./data -type f -name "*.txt" -print0 | xargs -0 wc -l | tail -1
 ![Prompt](./assets/top10_prompt.png)
 
 ![Prompt](./assets/top10_negative_prompt.png)
+
+## 公众号文章
+
+[对 C 站18万 AI 绘画的图片数据进行分析后～](https://mp.weixin.qq.com/s/5PGMqoj3IENKxitzWg3tGg)
